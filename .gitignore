@@ -1,0 +1,5 @@
+# 忽略当前目录下的 results 文件夹中的所有内容
+results/
+
+# 忽略当前目录下的 feature_cache_real 文件或文件夹
+feature_cache_real
